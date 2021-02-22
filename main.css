@@ -1,0 +1,45 @@
+body {
+    background-color:#33ccff;
+
+}
+.toplogo {
+    
+    height: 300px;
+    width: 100%;
+   
+    
+}
+.pic1 {
+    
+    height: 200px;
+    width: 100%;
+    margin-top:7.5%;
+   
+    
+}
+.pic2 {
+    height: 200px;
+    width: 100%;
+    margin-top:15%;
+    
+    
+}
+.pic3 {
+    height: 200px;
+    width: 100%;
+     margin-top: 18%;
+}
+.footer {
+    height: 150px;
+    width: 100%;
+    margin-top: 20%;
+     background-color: rgb(127, 164, 199);
+
+}
+.link {
+    
+    font-size: 50px;
+    left: 50%;
+   
+
+}
